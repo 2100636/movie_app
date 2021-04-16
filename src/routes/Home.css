@@ -1,0 +1,12 @@
+body{
+  background: #eee;
+}
+.container{
+  width: 1200px;
+  margin: 10px auto;
+}
+.movies{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
